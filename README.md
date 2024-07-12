@@ -12,8 +12,8 @@ Sou um programador iniciante, atualmente  na área de análise e desenvolvimento
 ## 🛠️ Habilidades 
 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Dev-Jv" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Dev-Py" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img align="center" alt="Dev-Jv" height="80"  width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Dev-Py" height="80"  width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
           
   
           
